@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">descrolled</string>
+    <string name="accessibility_service_description">Monitors Instagram screen content to detect and block reels.</string>
+    <string name="test_accessibility_service_description">Tester service</string>
 </resources>
